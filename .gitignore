@@ -1,0 +1,8 @@
+*.pkl
+*.zip
+*.tar.gz
+*.tar
+*.tgz
+*.txt
+test_256/
+*.h5
