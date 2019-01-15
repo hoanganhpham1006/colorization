@@ -8,5 +8,8 @@ This is according to the article: https://viblo.asia/p/thu-lam-ung-dung-to-mau-a
 Results random in Predict.ipynb:
 ![alt text](https://github.com/hoanganhpham1006/colorization/blob/master/Screenshot%20from%202019-01-15%2011-19-37.png)
 
+
 Another results:
+
+
 ![alt text](https://github.com/hoanganhpham1006/colorization/blob/master/Screenshot%20from%202019-01-15%2011-27-46.png)
